@@ -6,7 +6,7 @@ doi:
 
 author: Emma R. Kast, emma.r.kast@gmail.com
 
-Files
+Files\
 R Project "Kast2022_megalodon_d15N.Rproj"\
 R script "Kast2022_megalodon_d15N.R"\
 Data are in the subdirectory "Data" and include:\
